@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Photos</string>
+    <string name="facebook_app_id">914786532053435</string>
+    <string name="fb_login_protocol_scheme">fb914786532053435</string>
+    <string name="log_instagram">Log Instagram</string>
+</resources>
