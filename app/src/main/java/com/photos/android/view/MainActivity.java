@@ -53,7 +53,6 @@ import retrofit2.Response;
 
 public class MainActivity extends AppCompatActivity implements ImageAdapter.OnItemClickListener, View.OnClickListener {
 
-    private static final String TAG = "MainActivity";
     private static final int PICK_IMAGE_REQUEST = 200;
     private CallbackManager mCallbackManager;
     private GraphRequest request;
