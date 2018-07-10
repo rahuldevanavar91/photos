@@ -34,8 +34,9 @@ import java.net.URL;
 import static com.photos.android.helper.Constants.TOKEN_URL;
 
 /**
- * Created by ashok.kumar on 04/02/16.
+ * Created by Rahul D on 7/7/18.
  */
+
 public class InstagramDialog extends Dialog {
 
     public static String mCallbackUrl = "https://elfsight.com/service/generate-instagram-access-token/";
